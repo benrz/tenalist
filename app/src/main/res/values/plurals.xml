@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="numberOfBazaarsHeld">
+        <item quantity="one">%d bazaar held</item>
+        <item quantity="other">%d bazaars held</item>
+    </plurals>
+    <plurals name="numberOfBazaarsJoined">
+        <item quantity="one">%d bazaar joined</item>
+        <item quantity="other">%d bazaars joined</item>
+    </plurals>
+    <plurals name="numberOfSlots">
+        <item quantity="one">Hurry up, %d slot left!</item>
+        <item quantity="other">%d available slots</item>
+    </plurals>
+</resources>
