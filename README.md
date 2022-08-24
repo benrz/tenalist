@@ -44,3 +44,10 @@ Bazaar Organizer Dashboard:
  <img src="docs/6.gif" width="25%">
 </p>
 <br>
+
+## Contributors
+* Benny Richardson
+* Carissa Komalasari
+* Kevin Hendy
+* Jason Wenardi
+* Wilson Philips
